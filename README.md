@@ -60,4 +60,4 @@ AnswerBot understands three types of voice commands:
 - Terminate: "Deactivate", "Terminate", "Shut down" - closes the program.
 
 ## How It Works - Full Workflow
-<img src="workflow.png" alt="AnswerBot" width="600"/>
+<img src="Workflow.png" alt="AnswerBot" width="600"/>
