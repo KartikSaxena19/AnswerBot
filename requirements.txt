@@ -1,0 +1,10 @@
+faster-whisper 
+pyaudio 
+webrtcvad-wheels
+requests
+rich
+numpy 
+edge-tts 
+python-dotenv 
+groq
+pygame

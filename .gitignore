@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# API Keys & Secrets 
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary Audio Files
+*.mp3
+temp_response.mp3
+
+
+
+# VS Code settings
+.vscode/
